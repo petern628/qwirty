@@ -1,0 +1,23 @@
+main {
+    display: flex;
+}
+
+.categories {
+    font-family: 'Courier New', Courier, monospace;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 256px;
+    display: flex;
+    flex-direction: column;
+    background: #44b;
+    padding: 0.5em 1em;
+    margin-bottom: 1em;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a:hover {
+    box-shadow: 0 2px 5px -2px black;
+}
