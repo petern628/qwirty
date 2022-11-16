@@ -1,8 +1,0 @@
-.items {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    font-family: Open sans;
-    align-items: flex-start;
-    flex-grow: 1;
-}
